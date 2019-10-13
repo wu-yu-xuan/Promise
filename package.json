@@ -1,0 +1,20 @@
+{
+  "name": "promise",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "tsc && promises-aplus-tests dist/index.js"
+  },
+  "author": "wu-yu-xuan",
+  "license": "WTFPL",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.12",
+    "jest": "^24.9.0",
+    "promises-aplus-tests": "^2.1.2",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}
